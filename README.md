@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @githubkubota
+- darkness.inc Technical Director
 - 📫 How to reach me kubota@death.co.jp
 
 <!---
